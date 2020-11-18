@@ -1,0 +1,13 @@
+C:\Users\DNS\Desktop\СиШарп\practice1\practice1\bin\Debug\netcoreapp3.1\practice1.exe
+C:\Users\DNS\Desktop\СиШарп\practice1\practice1\bin\Debug\netcoreapp3.1\practice1.deps.json
+C:\Users\DNS\Desktop\СиШарп\practice1\practice1\bin\Debug\netcoreapp3.1\practice1.runtimeconfig.json
+C:\Users\DNS\Desktop\СиШарп\practice1\practice1\bin\Debug\netcoreapp3.1\practice1.runtimeconfig.dev.json
+C:\Users\DNS\Desktop\СиШарп\practice1\practice1\bin\Debug\netcoreapp3.1\practice1.dll
+C:\Users\DNS\Desktop\СиШарп\practice1\practice1\bin\Debug\netcoreapp3.1\practice1.pdb
+C:\Users\DNS\Desktop\СиШарп\practice1\practice1\obj\Debug\netcoreapp3.1\practice1.AssemblyInfoInputs.cache
+C:\Users\DNS\Desktop\СиШарп\practice1\practice1\obj\Debug\netcoreapp3.1\practice1.AssemblyInfo.cs
+C:\Users\DNS\Desktop\СиШарп\practice1\practice1\obj\Debug\netcoreapp3.1\practice1.csproj.CoreCompileInputs.cache
+C:\Users\DNS\Desktop\СиШарп\practice1\practice1\obj\Debug\netcoreapp3.1\practice1.dll
+C:\Users\DNS\Desktop\СиШарп\practice1\practice1\obj\Debug\netcoreapp3.1\practice1.pdb
+C:\Users\DNS\Desktop\СиШарп\practice1\practice1\obj\Debug\netcoreapp3.1\practice1.genruntimeconfig.cache
+C:\Users\DNS\Desktop\СиШарп\practice1\practice1\obj\Debug\netcoreapp3.1\practice1.csprojAssemblyReference.cache
