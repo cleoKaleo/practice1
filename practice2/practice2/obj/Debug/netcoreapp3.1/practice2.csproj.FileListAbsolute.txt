@@ -1,0 +1,13 @@
+C:\Users\DNS\source\repos\practice2\practice2\bin\Debug\netcoreapp3.1\practice2.exe
+C:\Users\DNS\source\repos\practice2\practice2\bin\Debug\netcoreapp3.1\practice2.deps.json
+C:\Users\DNS\source\repos\practice2\practice2\bin\Debug\netcoreapp3.1\practice2.runtimeconfig.json
+C:\Users\DNS\source\repos\practice2\practice2\bin\Debug\netcoreapp3.1\practice2.runtimeconfig.dev.json
+C:\Users\DNS\source\repos\practice2\practice2\bin\Debug\netcoreapp3.1\practice2.dll
+C:\Users\DNS\source\repos\practice2\practice2\bin\Debug\netcoreapp3.1\practice2.pdb
+C:\Users\DNS\source\repos\practice2\practice2\obj\Debug\netcoreapp3.1\practice2.csprojAssemblyReference.cache
+C:\Users\DNS\source\repos\practice2\practice2\obj\Debug\netcoreapp3.1\practice2.AssemblyInfoInputs.cache
+C:\Users\DNS\source\repos\practice2\practice2\obj\Debug\netcoreapp3.1\practice2.AssemblyInfo.cs
+C:\Users\DNS\source\repos\practice2\practice2\obj\Debug\netcoreapp3.1\practice2.csproj.CoreCompileInputs.cache
+C:\Users\DNS\source\repos\practice2\practice2\obj\Debug\netcoreapp3.1\practice2.dll
+C:\Users\DNS\source\repos\practice2\practice2\obj\Debug\netcoreapp3.1\practice2.pdb
+C:\Users\DNS\source\repos\practice2\practice2\obj\Debug\netcoreapp3.1\practice2.genruntimeconfig.cache
